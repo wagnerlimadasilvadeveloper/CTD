@@ -1,0 +1,3 @@
+Um servidor, em suma, é um computador com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros computadores através de uma rede
+
+

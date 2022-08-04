@@ -1,0 +1,3 @@
+Essa é  unidade de negócio voltada para distribuição de produtos.
+20% da nossa base são Fabricantes e 10% são importadores.
+70% São Varejistas.

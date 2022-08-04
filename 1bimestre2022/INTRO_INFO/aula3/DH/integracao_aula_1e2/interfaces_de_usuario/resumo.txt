@@ -1,0 +1,1 @@
+A interface do usuário (UI) é o conjunto dos controles e canais sensoriais mediante as quais um usuário pode comunicar-se com uma máquina.

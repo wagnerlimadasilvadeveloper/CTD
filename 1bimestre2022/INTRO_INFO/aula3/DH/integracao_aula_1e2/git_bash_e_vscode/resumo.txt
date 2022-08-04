@@ -1,0 +1,2 @@
+O Git Bash é o aplicativo para ambientes do Microsoft Windows
+VS Code é uma IDE para edicao de codigo
