@@ -1,0 +1,2 @@
+A BD Academy consiste em uma unidade de negócio voltada para cursos online
+Ela é um benefício que todo consultorado da BD Consultoria ganha ao contratar o Brigada Meli.
