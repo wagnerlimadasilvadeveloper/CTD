@@ -1,0 +1,7 @@
+git config --global --replace-all user.name SeuNome
+git config --global --replace-all user.email SeuEmail
+
+
+git config --global user.name seu nome
+git config --global user.email  seu email
+
