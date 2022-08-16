@@ -6,6 +6,7 @@
 
 body{
    background-color: #131313;
+   
 }
 
 h1{
@@ -18,8 +19,8 @@ h2{
     color:steelblue ;
 }
 div.media-picture{
-background-image: url('../css/vingadores.jpg');
-width: 400px;
+background-image: url(../css/vingadores.jpg);
+height:400px;
 }
 
 p{
@@ -28,6 +29,6 @@ font-family: 'roboto';
 }
 
 .review-score{
-color:#e6bd09;
+background-color:#e6bd09;
 padding: 12px;
 }
