@@ -29,6 +29,7 @@ font-family: 'roboto';
 }
 
 .review-score{
+color:white;    
 background-color:#e6bd09;
 padding: 12px;
 }
