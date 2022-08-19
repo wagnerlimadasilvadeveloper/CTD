@@ -1,0 +1,32 @@
+
+*{
+    box-sizing: border-box; /* Usado em todos os CSS determina que a altura da caixa já contemplem a margem  */
+}
+
+div.caixa1{
+background-color: orange;
+border: 5px solid black;
+}
+
+div.caixa2{
+background-color: blueviolet;  
+border: 5px dotted black; 
+}
+
+div.caixa3{
+background-color: crimson;
+border: 5px solid   yellowgreen;
+
+}
+
+div{
+    display: inline-block;
+    width: 150px;
+    height:150px;
+    margin:30px;
+    padding: 40px;
+    border-radius: 100%;
+    
+ 
+
+}
